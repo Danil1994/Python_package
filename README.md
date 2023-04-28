@@ -3,8 +3,6 @@
 + ### Python developer [Shvecov Danil](https://github.com/Danil1994)
 + ### Mentor [Divnich Andrii](https://github.com/DivnychAndrii)
 
-#### *Task from [foxminded](https://lms.foxminded.com.ua/) courses.*
-
 Install
 
 1. Create a virtual environment and install task-6-danil-shvecov
